@@ -1,0 +1,31 @@
+2012-09-19 16:57  warnes
+
+	* [r1612] R/makeNamespace.R, R/namespace.R: Move makeNamespace
+	  function into a separate file and include the original copyright
+	  notice.
+
+2012-09-13 23:54  warnes
+
+	* [r1611] man/namespace.Rd: Add examples to man page
+
+2012-09-13 23:54  warnes
+
+	* [r1610] R/namespace.R: Fix bug in calling rm, needed to specify
+	  envir=
+
+2012-09-13 23:41  warnes
+
+	* [r1609] .Rinstignore: Add .Rinstignore file to skip .svn and such
+
+2012-09-13 23:38  warnes
+
+	* [r1608] DESCRIPTION, inst, inst/doc, inst/doc/NEWS: Add NEWS and
+	  ChangeLog, change version number to 0.9.0
+
+2012-09-13 23:36  warnes
+
+	* [r1607] ., DESCRIPTION, NAMESPACE, R, R/namespace.R, man,
+	  man/namespace-package.Rd, man/namespace.Rd, src, src/namespace.c,
+	  src/symbols.rds: Create package containing namespace management
+	  functions (currently) missing from R base
+

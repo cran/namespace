@@ -1,0 +1,11 @@
+02c970fdd68a97177c87cab7ca454962 *ChangeLog
+505ba5b2735962ae1961ac94d0de9a46 *DESCRIPTION
+9629db18e59a402be39a7b9de959553a *NAMESPACE
+1c9453eeb25324fb4cda090854208dc4 *NEWS
+8cbb4d1a19d5778b4e7fd697b0758037 *R/makeNamespace.R
+068eda618ce15ac7d62a39b6e3d24e94 *R/namespace.R
+02c970fdd68a97177c87cab7ca454962 *inst/doc/ChangeLog
+1c9453eeb25324fb4cda090854208dc4 *inst/doc/NEWS
+cbad757b2e7083f81f62a705d3b2daa9 *man/namespace-package.Rd
+5d85fb01b643222ecba00eebfc97c6b6 *man/namespace.Rd
+ea2aeba2987a3f85abc9def319a8cbfe *src/namespace.c
